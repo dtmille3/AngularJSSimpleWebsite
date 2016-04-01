@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "name": "Hardware Repair",
+    "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur ultrices nibh lacinia nisi laoreet, id pellentesque erat volutpat. Donec rhoncus euismod nulla. Aenean in ex et metus aliquet rhoncus et quis turpis. Proin eget enim et lectus mattis bibendum. Morbi libero odio, placerat nec sapien sollicitudin, luctus sollicitudin nisl. Sed non arcu ac ligula scelerisque euismod. Nullam eu placerat quam, vitae tincidunt turpis. Quisque justo enim, cursus nec auctor in, mattis ut ipsum. Aliquam vitae orci varius, egestas nulla vitae, suscipit elit. Donec nec lobortis tortor. Cras et ullamcorper lorem. Fusce ac pharetra ligula. Maecenas sit amet lectus nec est porta porta quis non libero. Phasellus at odio vitae nibh suscipit varius ac non ante. Nunc sodales aliquam nisi ac sodales.",
+    "image":"computer-image.png"
+  },
+  {
+    "id": 1,
+    "name": "Virus Removal",
+    "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur ultrices nibh lacinia nisi laoreet, id pellentesque erat volutpat. Donec rhoncus euismod nulla. Aenean in ex et metus aliquet rhoncus et quis turpis. Proin eget enim et lectus mattis bibendum. Morbi libero odio, placerat nec sapien sollicitudin, luctus sollicitudin nisl. Sed non arcu ac ligula scelerisque euismod. Nullam eu placerat quam, vitae tincidunt turpis. Quisque justo enim, cursus nec auctor in, mattis ut ipsum. Aliquam vitae orci varius, egestas nulla vitae, suscipit elit. Donec nec lobortis tortor. Cras et ullamcorper lorem. Fusce ac pharetra ligula. Maecenas sit amet lectus nec est porta porta quis non libero. Phasellus at odio vitae nibh suscipit varius ac non ante. Nunc sodales aliquam nisi ac sodales.",
+    "image":"computer-image.png"
+  },
+  {
+    "id": 1,
+    "name": "System Tune-Up",
+    "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur ultrices nibh lacinia nisi laoreet, id pellentesque erat volutpat. Donec rhoncus euismod nulla. Aenean in ex et metus aliquet rhoncus et quis turpis. Proin eget enim et lectus mattis bibendum. Morbi libero odio, placerat nec sapien sollicitudin, luctus sollicitudin nisl. Sed non arcu ac ligula scelerisque euismod. Nullam eu placerat quam, vitae tincidunt turpis. Quisque justo enim, cursus nec auctor in, mattis ut ipsum. Aliquam vitae orci varius, egestas nulla vitae, suscipit elit. Donec nec lobortis tortor. Cras et ullamcorper lorem. Fusce ac pharetra ligula. Maecenas sit amet lectus nec est porta porta quis non libero. Phasellus at odio vitae nibh suscipit varius ac non ante. Nunc sodales aliquam nisi ac sodales.",
+    "image":"computer-image.png"
+  }
+]

@@ -1,0 +1,29 @@
+[
+  {
+    "id": 1,
+    "name": "Chicago Location",
+    "street_address": "333 Walnut Street",
+    "city": "Chicago",
+    "state": "IL",
+    "zip": "03142",
+    "phone_number": "(999)333-4444"
+  },
+  {
+    "id": 1,
+    "name": "New York Location",
+    "street_address": "333 Pecan Streett",
+    "city": "New York",
+    "state": "NY",
+    "zip": "03142",
+    "phone_number": "(999)333-4444"
+  },
+  {
+    "id": 1,
+    "name": "Los Angeles Location",
+    "street_address": "333 Almond Street",
+    "city": "Los Angeles",
+    "state": "CA",
+    "zip": "03142",
+    "phone_number": "(999)333-4444"
+  }
+]
